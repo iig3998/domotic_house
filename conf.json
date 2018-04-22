@@ -1,0 +1,51 @@
+{
+"conf": [{
+	"token": "437431637:AAGAZeGOYjNRtQpyAAHpRRzR0Jlrs2-0Vvg",
+	"first_name": "Fabio",
+	"last_name": "Molon",
+	"chat_id": "52843797"
+}],
+
+"address_modbus": [{
+	"kitchen_address": 1,
+	"living_room_address": 2,
+	"bathroom_address": 3,
+	"bedroom_1_address": 4,
+	"bedroom_2_address": 5
+}],
+
+"server_alarm": [{
+	"ip_server": "127.0.0.8",
+	"port": 9999,
+	"delta": 10
+}],
+
+"radio_list": {
+	"Radio M2O":        "http://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8",
+	"RTL 102.5":        "http://shoutcast.rtl.it:3010/",
+	"RTL Best":         "http://shoutcast.rtl.it:3020/",
+	"RTL Italian":      "http://shoutcast.rtl.it:3030/",
+	"RTL Groove":       "http://shoutcast.rtl.it:3040/",
+	"RTL Lounge":       "http://shoutcast.rtl.it:3070/",
+	"Radio Kiss Kiss":  "http://ice07.fluidstream.net:8080/KissKiss.mp3",
+	"Radio RDS":        "http://www.rds.it:8000/stream",
+	"Radio Deejay":     "http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8",
+	"Radio 101":        "http://icecast.unitedradio.it/r101",
+	"Virgin Radio":     "http://icecast.unitedradio.it/Virgin.mp3",
+	"Radio Capital":    "http://radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8",
+	"Rai Radio 1":      "http://icestreaming.rai.it/1.mp3",
+	"Rai Radio 2":      "http://icestreaming.rai.it/2.mp3",
+	"Rai Radio 3":      "http://icestreaming.rai.it/3.mp3",
+	"RMC":              "http://edge.radiomontecarlo.net/RMC.mp3",
+	"RMC 2":            "http://edge.radiomontecarlo.net/MC2.mp3",
+	"Latte Miele":      "http://ice02.fluidstream.net/fluid016.aac",
+	"Radio Ibiza":      "http://wma02.fluidstream.net:5010/",
+	"Discoradio":       "http://46.37.20.206:1935/live/1discoradio.stream/playlist.m3u8",
+	"Rib":              "http://sr9.inmystream.info:8006",
+	"Radio Sportiva":   "http://nr5.newradio.it:8545/stream.mp3",
+	"Stereo Città":     "http://onair11.xdevel.com:8134/",
+	"Radio Dance 90":   "http://icy.unitedradio.it/105Dance90.mp3?amsparams=playerid:208f105web;skey:1469092924",
+	"Radio Dancefloor": "http://streaming.radiodancefloor.it:443",
+	"Radio Peter Pan":  "http://ice02.fluidstream.net/piterpan.mp3"
+}
+}
