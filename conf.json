@@ -1,9 +1,9 @@
 {
 "conf": [{
 	"token": "",
-	"first_name": "Fabio",
-	"last_name": "Molon",
-	"chat_id": "52843797"
+	"first_name": "",
+	"last_name": "",
+	"chat_id": ""
 }],
 
 "address_modbus": [{
